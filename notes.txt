@@ -1,0 +1,2 @@
+Ghi chu bai thuc hanh Git
+Da hoc cach commit nhieu lan.
